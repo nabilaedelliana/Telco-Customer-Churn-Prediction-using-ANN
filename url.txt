@@ -1,0 +1,10 @@
+I've deployed my model via heroku.
+Note that the my back-end link exceed the slug size of soft limit for it may crash the open-page process. 
+
+Here it is the link:
+
+back-end link :
+https://churn-predictor-be-ed.herokuapp.com/
+
+front-end link :
+https://churn-predictor-fe-ed.herokuapp.com/
